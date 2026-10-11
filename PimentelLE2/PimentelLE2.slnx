@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="BlogAPI/BlogAPI.csproj" Id="7d42b213-8053-46b6-a965-f60289425609" />
+  <Project Path="BlogDataLibrary/BlogDataLibrary.csproj" />
+  <Project Path="BlogTestUI/BlogTestUI.csproj" />
+  <Project Path="PimentelBlogDB/PimentelBlogDB.sqlproj" Id="64fd2d29-9539-454c-a539-380eeaa19cbd">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
